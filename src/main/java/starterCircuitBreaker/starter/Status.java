@@ -31,12 +31,12 @@ public class Status {
 		}
 		
 		if (newstatus.equals(halfopen)) {
-			status = open;
+			status = halfopen;
 		}
 		
 		
 		if (newstatus.equals(open)) {
-			status = halfopen;
+			status = open;
 		}
 		
 		
