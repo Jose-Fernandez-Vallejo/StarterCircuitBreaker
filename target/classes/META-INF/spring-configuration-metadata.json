@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "status.maxcontador",
+      "type": "starterCircuitBreaker.starter.StatusProperties",
+      "sourceType": "starterCircuitBreaker.starter.StatusProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "status.maxcontador.contador",
+      "type": "java.lang.Long",
+      "sourceType": "starterCircuitBreaker.starter.StatusProperties"
+    }
+  ],
+  "hints": []
+}
